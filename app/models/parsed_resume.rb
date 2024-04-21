@@ -1,0 +1,2 @@
+class ParsedResume < ApplicationRecord
+end
